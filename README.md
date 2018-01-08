@@ -5,3 +5,5 @@ This font was produced for William G. Sherman who recreated this alphabet from s
 “Air America” name used with permission from the Air America Association (http://www.air-america.org). 
 
 Digitized and mastered by Aaron Bell (https://www.sajatypeworks.com).
+
+This font and source made available under the OFL, v1.1, with Reserved Font Name “Air America”. Please see the license file. 
