@@ -1,8 +1,7 @@
 {
-.appVersion = "1101";
+.appVersion = "1075";
 DisplayStrings = (
-"NNANNAOOAOOA\012NNBNNBOOBOOB\012NNCNNCOOCOOC\012NNDNNDOODOOD\012NNENNEOOEOOE\012NNFNNFOOFOOF\012NNGNNGOOGOOG\012NNHNNHOOHOOH\012NNINNIOOIOOI\012NNJNNJOOJOOJ\012NNKNNKOOKOOK\012NNLNNLOOLOOL\012NNMNNMOOMOOM\012NNNNNNOONOON\012NNONNOOOOOOO\012NNPNNPOOPOOP\012NNQNNQOOQOOQ\012NNRNNROOROOR\012NNSNNSOOSOOS\012NNTNNTOOTOOT\012NNUNNUOOUOOU\012NNVNNVOOVOOV\012NNWNNWOOWOOW\012NNXNNXOOXOOX\012NNYNNYOOYOOY\012NNZNNZOOZOOZ\012NN0NN0OO0OO0\012NN1NN1OO1OO1\012NN2NN2OO2OO2\012NN3NN3OO3OO3\012NN4NN4OO4OO4\012NN5NN5OO5OO5\012NN6NN6OO6OO6\012NN7NN7OO7OO7\012NN8NN8OO8OO8\012NN9NN9OO9OO9\012",
-"I /quotedblleft Ask Jeff/quotedblright  or /quoteleft Ask Jeff/quoteright . Take the chef d/quoteright/oe uvre! Two of [of] (of) /quoteleft of/quoteright  /quotedblleft of/quotedblright  of? of! of. Two of [of] (of) /quoteleft of/quoteright  /quotedblleft of/quotedblright  of? of! of. Ydes, Yffignac and Ygrande are in France: so are Ypres, Les Woëvres, the Fôret de W/oe vres, the Voire and Vauvise. Yves is in heaven; D/quoteright Amboise is in jail. Lyford/quoteright s in Texas & L/quoteright Anse-aux-Griffons in Québec; the yna in Poland. Yriarte, Yciar and Ysa/ydieresis e are at Yale. Kyoto and Ryotsu are both in Japan, Kwikpak on the Yukon delta, Kvæven in Norway, Kyulu in Kenya, not in Rwanda./ellipsis  Walton/quoteright s in West Virginia, but «Wren» is in Oregon. Tlálpan is near Xochimilco in México. The Zygos & Xylophagou are in Cyprus, Zwettl in Austria, Fænø in Denmark, the Vøringsfossen and Værøy in Norway. Tchula is in Mississippi, the Tittabawassee in Michigan. Twodot is here in Montana, Ywamun in Burma. Yggdrasil and Ymir, Yngvi and Vóden, Vídrið and Skeggjöld and Týr are all in the Eddas. Tørberget and Våg, of course, are in Norway, Ktipas and Tmolos in Greece, but Vázquez is in Argentina, Vreden in Germany, Von-Vincke-Straße in Münster, Vdovino in Russia, Ytterbium in the periodic table. Are Toussaint L/quoteright Ouverture, Wölfflin, Wolfe, Miosz and W W all in the library? 1510/endash 1620, 11:00 pm, and the 1980s are over.\012\012Ergänzt von Typefacts:\012\012Ist da /quotedblbase Jemand/quotedblleft ? /quotedblbase Volker?/quotedblleft  /endash  /quotedblbase Wolf/quotedblleft . /quotedblbase Anna?/quotedblleft  /endash  /quotedblbase Yvonne/quotedblleft . /quotedblbase Torsten fragte: /quotesinglbase Vladimir?/quoteleft , später rief er /quotesinglbase Wolf/quoteleft  und /quotesinglbase Theresa/quoteleft , dann /quotesinglbase Andreas/quoteleft  und /quotesinglbase Yvonne/quoteleft/quotedblleft . Eleganter: Ist da »Jemand«? »Volker?« /endash  »Wolf«. »Anna?« /endash  »Yvonne«. »Torsten fragte: /guilsinglright Vladimir?/guilsinglleft , später rief er /guilsinglright WolF/guilsinglleft  und /guilsinglright Theresa/guilsinglleft , dann /guilsinglright Andreas/guilsinglleft  und /guilsinglright Yvonne/guilsinglleft «."
+"NNANNAOOAOOA\012NNBNNBOOBOOB\012NNCNNCOOCOOC\012NNDNNDOODOOD\012NNENNEOOEOOE\012NNFNNFOOFOOF\012NNGNNGOOGOOG\012NNHNNHOOHOOH\012NNINNIOOIOOI\012NNJNNJOOJOOJ\012NNKNNKOOKOOK\012NNLNNLOOLOOL\012NNMNNMOOMOOM\012NNNNNNOONOON\012NNONNOOOOOOO\012NNPNNPOOPOOP\012NNQNNQOOQOOQ\012NNRNNROOROOR\012NNSNNSOOSOOS\012NNTNNTOOTOOT\012NNUNNUOOUOOU\012NNVNNVOOVOOV\012NNWNNWOOWOOW\012NNXNNXOOXOOX\012NNYNNYOOYOOY\012NNZNNZOOZOOZ\012NN0NN0OO0OO0\012NN1NN1OO1OO1\012NN2NN2OO2OO2\012NN3NN3OO3OO3\012NN4NN4OO4OO4\012NN5NN5OO5OO5\012NN6NN6OO6OO6\012NN7NN7OO7OO7\012NN8NN8OO8OO8\012NN9NN9OO9OO9\012"
 );
 copyright = "Copyright (c) 2018, William G Sherman and Saja Typeworks, with Reserved Font Name “Air America”. \"Air America\" name used with permission from the Air America Association (http://www.air-america.org)";
 customParameters = (
@@ -6123,7 +6122,7 @@ unicode = 2022;
 },
 {
 glyphname = asterisk;
-lastChange = "2018-01-04 05:54:01 +0000";
+lastChange = "2018-01-09 20:09:37 +0000";
 layers = (
 {
 background = {
@@ -6131,53 +6130,53 @@ paths = (
 {
 closed = 1;
 nodes = (
-"173 632 LINE",
-"173 749 LINE",
-"108 749 LINE",
-"108 632 LINE"
+"203 632 LINE",
+"203 749 LINE",
+"138 749 LINE",
+"138 632 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"114 613 LINE",
-"183 518 LINE",
-"236 556 LINE",
-"167 651 LINE"
+"144 613 LINE",
+"213 518 LINE",
+"266 556 LINE",
+"197 651 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"114 651 LINE",
-"45 556 LINE",
-"98 518 LINE",
-"167 613 LINE"
+"144 651 LINE",
+"75 556 LINE",
+"128 518 LINE",
+"197 613 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"151 601 LINE",
-"262 637 LINE",
-"242 699 LINE",
-"130 663 LINE"
+"181 601 LINE",
+"292 637 LINE",
+"272 699 LINE",
+"160 663 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"151 663 LINE",
-"39 699 LINE",
-"19 637 LINE",
-"130 601 LINE"
+"181 663 LINE",
+"69 699 LINE",
+"49 637 LINE",
+"160 601 LINE"
 );
 }
 );
 };
 guideLines = (
 {
-position = "{333, 527}";
+position = "{363, 527}";
 }
 );
 layerId = "E1E4A462-81C5-471B-9957-D1EE34C42CA9";
@@ -6185,50 +6184,50 @@ paths = (
 {
 closed = 1;
 nodes = (
-"206 632 LINE",
-"239 749 LINE",
-"174 749 LINE",
-"141 632 LINE"
+"236 632 LINE",
+"269 749 LINE",
+"204 749 LINE",
+"171 632 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"141 613 LINE",
-"183 518 LINE",
-"247 556 LINE",
-"205 651 LINE"
+"171 613 LINE",
+"213 518 LINE",
+"277 556 LINE",
+"235 651 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"152 651 LINE",
-"56 556 LINE",
-"98 518 LINE",
-"194 613 LINE"
+"182 651 LINE",
+"86 556 LINE",
+"128 518 LINE",
+"224 613 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"174 601 LINE",
-"296 637 LINE",
-"294 699 LINE",
-"172 663 LINE"
+"204 601 LINE",
+"326 637 LINE",
+"324 699 LINE",
+"202 663 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"192 663 LINE",
-"91 699 LINE",
-"53 637 LINE",
-"154 601 LINE"
+"222 663 LINE",
+"121 699 LINE",
+"83 637 LINE",
+"184 601 LINE"
 );
 }
 );
-width = 246;
+width = 306;
 }
 );
 leftKerningGroup = quotes;
@@ -7509,7 +7508,7 @@ unicode = 00A5;
 },
 {
 glyphname = percent;
-lastChange = "2018-01-08 04:18:41 +0000";
+lastChange = "2018-01-09 20:09:29 +0000";
 layers = (
 {
 layerId = "E1E4A462-81C5-471B-9957-D1EE34C42CA9";
@@ -7517,82 +7516,82 @@ paths = (
 {
 closed = 1;
 nodes = (
-"166 759 OFFCURVE",
-"113 720 OFFCURVE",
-"94 646 CURVE SMOOTH",
-"62 522 OFFCURVE",
-"104 457 OFFCURVE",
-"218 457 CURVE SMOOTH",
-"302 457 OFFCURVE",
-"358 501 OFFCURVE",
-"380 585 CURVE SMOOTH",
-"411 699 OFFCURVE",
-"365 759 OFFCURVE",
-"247 759 CURVE SMOOTH"
+"164 759 OFFCURVE",
+"111 720 OFFCURVE",
+"92 646 CURVE SMOOTH",
+"60 522 OFFCURVE",
+"102 457 OFFCURVE",
+"216 457 CURVE SMOOTH",
+"300 457 OFFCURVE",
+"356 501 OFFCURVE",
+"378 585 CURVE SMOOTH",
+"409 699 OFFCURVE",
+"363 759 OFFCURVE",
+"245 759 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"276 559 OFFCURVE",
-"255 536 OFFCURVE",
-"223 536 CURVE SMOOTH",
-"185 536 OFFCURVE",
-"173 564 OFFCURVE",
-"187 618 CURVE SMOOTH",
-"197 659 OFFCURVE",
-"218 680 OFFCURVE",
-"247 680 CURVE SMOOTH",
-"285 680 OFFCURVE",
-"298 654 OFFCURVE",
-"286 604 CURVE SMOOTH"
+"274 559 OFFCURVE",
+"253 536 OFFCURVE",
+"221 536 CURVE SMOOTH",
+"183 536 OFFCURVE",
+"171 564 OFFCURVE",
+"185 618 CURVE SMOOTH",
+"195 659 OFFCURVE",
+"216 680 OFFCURVE",
+"245 680 CURVE SMOOTH",
+"283 680 OFFCURVE",
+"296 654 OFFCURVE",
+"284 604 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"311 327 LINE",
-"337 422 LINE",
-"34 422 LINE",
-"9 327 LINE"
+"309 327 LINE",
+"335 422 LINE",
+"32 422 LINE",
+"7 327 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"42 292 OFFCURVE",
-"-11 253 OFFCURVE",
-"-30 179 CURVE SMOOTH",
-"-62 55 OFFCURVE",
-"-19 -10 OFFCURVE",
-"94 -10 CURVE SMOOTH",
-"178 -10 OFFCURVE",
-"234 34 OFFCURVE",
-"256 118 CURVE SMOOTH",
-"287 232 OFFCURVE",
-"241 292 OFFCURVE",
-"123 292 CURVE SMOOTH"
+"40 292 OFFCURVE",
+"-13 253 OFFCURVE",
+"-32 179 CURVE SMOOTH",
+"-64 55 OFFCURVE",
+"-21 -10 OFFCURVE",
+"92 -10 CURVE SMOOTH",
+"176 -10 OFFCURVE",
+"232 34 OFFCURVE",
+"254 118 CURVE SMOOTH",
+"285 232 OFFCURVE",
+"239 292 OFFCURVE",
+"121 292 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"152 92 OFFCURVE",
-"131 69 OFFCURVE",
-"99 69 CURVE SMOOTH",
-"61 69 OFFCURVE",
-"49 97 OFFCURVE",
-"63 151 CURVE SMOOTH",
-"73 192 OFFCURVE",
-"94 213 OFFCURVE",
-"123 213 CURVE SMOOTH",
-"161 213 OFFCURVE",
-"174 187 OFFCURVE",
-"162 137 CURVE SMOOTH"
+"150 92 OFFCURVE",
+"129 69 OFFCURVE",
+"97 69 CURVE SMOOTH",
+"59 69 OFFCURVE",
+"47 97 OFFCURVE",
+"61 151 CURVE SMOOTH",
+"71 192 OFFCURVE",
+"92 213 OFFCURVE",
+"121 213 CURVE SMOOTH",
+"159 213 OFFCURVE",
+"172 187 OFFCURVE",
+"160 137 CURVE SMOOTH"
 );
 }
 );
-width = 355;
+width = 352;
 }
 );
 leftKerningGroup = round;
@@ -8149,12 +8148,12 @@ unicode = 00AE;
 },
 {
 glyphname = degree;
-lastChange = "2018-01-08 04:18:33 +0000";
+lastChange = "2018-01-09 20:09:27 +0000";
 layers = (
 {
 guideLines = (
 {
-position = "{295, 527}";
+position = "{325, 527}";
 }
 );
 layerId = "E1E4A462-81C5-471B-9957-D1EE34C42CA9";
@@ -8162,39 +8161,39 @@ paths = (
 {
 closed = 1;
 nodes = (
-"102 759 OFFCURVE",
-"53 704 OFFCURVE",
-"53 607 CURVE SMOOTH",
-"53 550 OFFCURVE",
-"93 517 OFFCURVE",
-"163 517 CURVE SMOOTH",
-"252 517 OFFCURVE",
-"303 573 OFFCURVE",
-"303 670 CURVE SMOOTH",
-"303 727 OFFCURVE",
-"261 759 OFFCURVE",
-"187 759 CURVE SMOOTH"
+"132 759 OFFCURVE",
+"83 704 OFFCURVE",
+"83 607 CURVE SMOOTH",
+"83 550 OFFCURVE",
+"123 517 OFFCURVE",
+"193 517 CURVE SMOOTH",
+"282 517 OFFCURVE",
+"333 573 OFFCURVE",
+"333 670 CURVE SMOOTH",
+"333 727 OFFCURVE",
+"291 759 OFFCURVE",
+"217 759 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"188 586 OFFCURVE",
-"167 586 CURVE SMOOTH",
-"141 586 OFFCURVE",
-"131 607 OFFCURVE",
-"141 645 CURVE SMOOTH",
-"149 674 OFFCURVE",
-"165 690 OFFCURVE",
-"185 690 CURVE SMOOTH",
-"213 690 OFFCURVE",
-"223 670 OFFCURVE",
-"213 636 CURVE SMOOTH",
-"205 604 OFFCURVE"
+"218 586 OFFCURVE",
+"197 586 CURVE SMOOTH",
+"171 586 OFFCURVE",
+"161 607 OFFCURVE",
+"171 645 CURVE SMOOTH",
+"179 674 OFFCURVE",
+"195 690 OFFCURVE",
+"215 690 CURVE SMOOTH",
+"243 690 OFFCURVE",
+"253 670 OFFCURVE",
+"243 636 CURVE SMOOTH",
+"235 604 OFFCURVE"
 );
 }
 );
-width = 268;
+width = 328;
 }
 );
 leftKerningGroup = quotes;
